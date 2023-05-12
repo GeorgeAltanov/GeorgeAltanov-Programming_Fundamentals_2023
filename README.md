@@ -1,1 +1,1 @@
-# GeorgeAltanov-Programming_Fundamentals_2023
+# Programming_Fundamentals_2023
