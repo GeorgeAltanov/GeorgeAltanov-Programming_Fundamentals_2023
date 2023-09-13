@@ -1,3 +1,13 @@
+# Write a program that receives a sequence of numbers (integers) separated by a single space.
+# It should print a list of only the even numbers. Use filter().
+#
+# Input1: 1 2 3 4
+# Output1: [2, 4]
+#
+# Input2: 1 2 3 -1 -2 -3
+# Output2: [2, -2]
+
+
 def even_numbers(num):
     result = []
 
